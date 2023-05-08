@@ -1,0 +1,10 @@
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\obj\Debug\CSVUpload.csproj.AssemblyReference.cache
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\obj\Debug\CSVUpload.Form1.resources
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\obj\Debug\CSVUpload.Properties.Resources.resources
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\obj\Debug\CSVUpload.csproj.GenerateResource.cache
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\obj\Debug\CSVUpload.csproj.CoreCompileInputs.cache
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\bin\Debug\CSVUpload.exe.config
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\bin\Debug\CSVUpload.exe
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\bin\Debug\CSVUpload.pdb
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\obj\Debug\CSVUpload.exe
+F:\Alain\C#\dotnet\CSVUpload\CSVUpload\obj\Debug\CSVUpload.pdb
